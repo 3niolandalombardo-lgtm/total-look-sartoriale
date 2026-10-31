@@ -1,0 +1,13 @@
+TOTAL LOOK SARTORIALE — sito iniziale
+
+1. Estrai la cartella ZIP.
+2. Apri https://app.netlify.com/drop in un browser.
+3. Trascina la cartella 'total-look-sartoriale' (o la cartella estratta) nell'area di caricamento.
+4. Netlify pubblicherà il sito e mostrerà un link pubblico gratuito.
+
+IMPORTANTE:
+- Questo è un sito vetrina iniziale: non contiene ancora un carrello con pagamenti online attivi.
+- Per incassare pagamenti sul sito serve collegare un conto commerciante presso un gestore di pagamenti; possono esserci commissioni.
+- Le schede prodotto sono segnaposto: sostituiscile con foto reali, descrizioni, prezzi, taglie e disponibilità.
+- Il logo fornito è incluso se il file originale era disponibile al momento della creazione.
+- Le immagini di categoria sono immagini remote di Unsplash e richiedono connessione internet.
